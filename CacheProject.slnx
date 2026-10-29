@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CacheClient/CacheClient.csproj" />
+  <Project Path="CacheServer/CacheServer.csproj" />
+</Solution>
